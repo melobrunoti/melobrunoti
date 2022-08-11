@@ -9,9 +9,9 @@
 <div>&nbsp;</div> 
 
 <div>
-   <img width=300 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196317" />
-   <img width=300 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48844543"/>
-   <img width=300 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996997"/>
+   <img width=200 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196317" />
+   <img width=200 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48844543"/>
+   <img width=200 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996997"/>
 </div>
 <div>&nbsp;</div> 
 <div>&nbsp;</div> 
