@@ -1,14 +1,26 @@
 ### Hi, I'm Bruno Melo.
 
 -  I’m 25 years old.
--  I’m currently studying on Trybe
+
+-  I’m a Full stack developer, and I continue studying at Trybe
+
 -  Contact me on [LinkedIn](https://www.linkedin.com/in/melobrunoti/)
 
+<div>&nbsp;</div> 
 
+<div>
+   <img width=300 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196317" />
+   <img width=300 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48844543"/>
+   <img width=300 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996997"/>
+</div>
+<div>&nbsp;</div> 
+<div>&nbsp;</div> 
+<div>&nbsp;</div> 
 <div>
    <img align height=180em src="https://github-readme-stats.vercel.app/api?username=melobrunoti&show_icons=true&theme=radical&hide=stars"/>
    <img  height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=melobrunoti&show_icons=true&theme=radical&locale=en&layout=compact" alt="melobrunoti" />
  </div>
+ <div>&nbsp;</div> 
  
 ### Technologies
 
@@ -26,5 +38,9 @@
 </div>
   
 
-          
+ ### Currently Studiyng
 
+<div>
+   <img height=66 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img height=66 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />        
+</div>
