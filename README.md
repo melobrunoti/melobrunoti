@@ -38,7 +38,7 @@
 </div>
   
 
- ### Currently Studiyng
+ ### Currently Studying
 
 <div>
    <img height=66 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
