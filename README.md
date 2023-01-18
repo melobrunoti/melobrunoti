@@ -17,8 +17,8 @@
 <div>&nbsp;</div> 
 <div>&nbsp;</div> 
 <div>
-   <img align height=180em src="https://github-readme-stats-three-gamma-64.vercel.app/api?username=melobrunoti&show_icons=true&theme=radical&hide=stars"/>
-   <img  height=180em src="https://github-readme-stats-three-gamma-64.vercel.app/api/top-langs?username=melobrunoti&show_icons=true&theme=radical&locale=en&layout=compact" alt="melobrunoti" />
+   <img align height=180em src="https://github-readme-stats-vercel.app/api?username=melobrunoti&show_icons=true&theme=radical&hide=stars"/>
+   <img  height=180em src="https://github-readme-stats-vercel.app/api/top-langs?username=melobrunoti&show_icons=true&theme=radical&locale=en&layout=compact" alt="melobrunoti" />
  </div>
  <div>&nbsp;</div> 
  
